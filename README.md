@@ -35,8 +35,6 @@ A Red Team–oriented proof-of-concept for covert file monitoring and data exfil
 
 ## 🧩 Why This Tool?
 
-## 🧩 Why This Tool?
-
 | System                      | USB Detection | Keystroke Logging | Data Exfiltration | Process Hiding  | Screenshots |
 | --------------------------- | ------------- | ----------------- | ----------------- | --------------- | ----------- |
 | **Auditd**                  | ✅            | ❌                | ❌                | ❌              | ❌          |

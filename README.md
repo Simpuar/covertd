@@ -42,7 +42,7 @@ A Red Team–oriented proof-of-concept for covert file monitoring and data exfil
 | **Auditbeat**               | ✅            | ❌                | ✅                | ❌              | ❌          |
 | **Sysdig**                  | ✅            | ❌                | ❌                | ❌              | ✅          |
 | **SprutMonitor (Win only)** | ✅            | ✅                | ✅                | ✅              | ✅          |
-| **covertd (this)**        | ✅            | ✅ (prototype)    | ✅ (AES over TCP) | ✅ (LD_PRELOAD) | ✅          |
+| **covertD (this)**        | ✅            | ✅ (prototype)    | ✅ (AES over TCP) | ✅ (LD_PRELOAD) | ✅          |
 
 ## ⚙️ Dependencies
 
